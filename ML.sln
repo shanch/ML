@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAccordNETApp", "SampleAccordNETApp\SampleAccordNETApp.csproj", "{838E0595-9ACB-417C-953B-7DAB8FF6178A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailParser", "EmailParser\EmailParser.csproj", "{485EF5BB-3124-43D3-A559-B827F613D5A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{838E0595-9ACB-417C-953B-7DAB8FF6178A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{838E0595-9ACB-417C-953B-7DAB8FF6178A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{838E0595-9ACB-417C-953B-7DAB8FF6178A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485EF5BB-3124-43D3-A559-B827F613D5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485EF5BB-3124-43D3-A559-B827F613D5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485EF5BB-3124-43D3-A559-B827F613D5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485EF5BB-3124-43D3-A559-B827F613D5A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
